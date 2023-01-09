@@ -5,7 +5,7 @@
 
 ### About Me 👦🏻 :
 - 👩🏻‍💻 Pronouns: He/His
-- 💼 I’m currently working as a Software Developer at [Cognizant](cognizant.com).
+- 💼 I’m currently working as a Software Developer at [Cognizant](https://www.cognizant.com/us/en).
 - 🎒 I've done almost 6-7 internships in frontend primarily.
 - 👩🏻‍🏫 I love teaching students and have mentored across 1000+ students over various platforms. One of my videos on youtube has 15K+ views on it, wherein I've taught how to create a Swiggy Clone.
 - 🧭 I love exploring and working both in frontend and backend.
