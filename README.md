@@ -1,5 +1,14 @@
-### Hi there 👋
-
+### Hola, Waving hand animated gif I'm Suman Purkait 👋
+About Me 👧🏻 :
+👩🏻‍💻 Pronouns: He/him
+💼 I’m currently working as a Software Developer at Cognizant.
+📋 I've worked as an MTS at GeeksforGeeks earlier.
+🎒 I've done almost 6-7 internships in frontend primarily.
+👩🏻‍🏫 I love teaching students and have mentored across 1000+ students over various platforms. One of my videos on youtube has 15K+ views on it, wherein I've taught how to create a Swiggy Clone.
+🧭 I love exploring and working both in frontend and backend.
+🎭 I love speaking at events and connecting with people.
+📫 How to reach me: Check social links below.
+Let's Connect ☕
 <!--
 **SumanPurkait-grb/SumanPurkait-grb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
