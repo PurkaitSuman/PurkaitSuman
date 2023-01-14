@@ -4,7 +4,7 @@
          width="45" /> I'm Suman Purkait</h1>
 
 ### About Me 👦🏻 :
-- 👩🏻‍💻 Pronouns: He/His
+- 👩🏻‍💻 Pronouns: He/Him
 - 💼 I’m currently working as a Software Developer at [Cognizant](https://www.cognizant.com/us/en).
 - 🎒 I've done almost 6 internships in frontend primarily.
 - 🧭 I love exploring and working both in frontend and backend.
