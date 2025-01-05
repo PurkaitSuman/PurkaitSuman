@@ -5,9 +5,9 @@
 
 ### About Me 👦🏻 :
 - 👩🏻‍💻 Pronouns: He/Him
-- 💼 I’m currently working as a Test Automation Engineer at [Cognizant](https://www.cognizant.com/us/en).
-- 🎒 I've done almost 6 internships in Automation Testing primarily.
-- 🧭 I love exploring and working both in frontend and backend.
+- 💼 I’m currently working as a Cloud DevOps Engineer at Cognizant.
+- 🎒 I've done almost 6 internships in Cloud and DevOps domains primarily.
+- 🧭 I love exploring and working on both cloud infrastructure and automation pipelines.
 - 🎭 I love speaking at events and connecting with people.
 - 📫 How to reach me: Check social links below.
 
